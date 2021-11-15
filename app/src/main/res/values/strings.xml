@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Map</string>
-</resources>
+    <string name="error_stub">Error</string>
+    <string name="reload_button">Reload</string>
+    <string name="undefined_error">Undefined error</string>
+    <string name="empty_server_response_on_success">Couldn\'t find any definitions</string>
+    <string name="button_search">Search</string>
+    <string name="search_hint">New word</string>
+    <string name="delete_description">X</string>
+    <string name="image_stub">image</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="dialog_title_stub">Undefined error</string>
+    <string name="dialog_tittle_sorry">Sorry</string>
+    <string name="search">Search</string>
+    <string name="markers">Markers</string>
+    <string name="place">Place</string>
+    <string name="annotation">Annotation</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+    </resources>
